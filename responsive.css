@@ -1,0 +1,301 @@
+@media(min-width:100px) {
+    .nav-main {
+        width: 100%;
+    }
+
+    .nav-list {
+        gap: 10px;
+        display: none;
+    }
+
+    .nav-text {
+        font-size: small;
+    }
+    .end{
+        display: block;
+        margin-left: 140px;
+    }
+
+
+}
+@media(min-width:280px) {
+    .nav-main {
+        width: 100%;
+    }
+
+    .nav-list {
+        gap: 10px;
+        display: none;
+    }
+
+    .nav-text {
+        font-size: small;
+    }
+    .end{
+        display: block;
+        margin-left: 140px;
+    }
+
+
+}
+
+
+@media(min-width:375px) {
+    .nav-main {
+        width: 100%;
+    }
+
+    .nav-list {
+        font-size: 16px;
+        gap: 10px;
+
+    }
+    .end{
+        display: block;
+        
+    }
+}
+
+
+@media(min-width:390px) {
+
+    .nav-list {
+        font-size: 16px;
+        gap: 10px;
+    }
+
+    .end{
+        display: block;
+        
+    }
+}
+
+
+@media(min-width:393px) {
+    .nav-main {
+        width: 100%;
+    }
+
+    .nav-list {
+        font-size: 16px;
+        gap: 10px;
+    }
+
+    .end{
+        display: block;
+        
+    }
+}
+
+
+@media(min-width:360px) {
+    .nav-main {
+        width: 100%;
+    }
+
+    .nav-list {
+        font-size: 16px;
+        gap: 10px;
+    }
+
+    .end{
+        display: block;
+        
+    }
+}
+
+
+@media(min-width:414px) {
+
+    .nav-main {
+        width: 100%;
+    }
+
+    .nav-list {
+        font-size: 16px;
+        gap: 10px;
+        display: none;
+    }
+
+    .end{
+        display: block;
+        
+    }
+
+}
+
+
+@media(min-width:820px) {
+    .nav-main {
+        width: 100%;
+    }
+
+    .nav-list {
+        gap: 50px;
+        display: block;
+    }
+
+    .nav-text {
+        font-size:x-large ;
+    }
+    .end{
+        display: none;
+        
+    }
+}
+@media(min-width:912px) {
+    .nav-main {
+        width: 100%;
+    }
+
+    .nav-list {
+        gap: 20px;
+    }
+
+    .nav-text {
+        font-size:x-large ;
+    }
+    .end{
+        display: none;
+        
+    }
+}
+
+
+@media(min-width:768px) {
+    .nav-main {
+        width: 100%;
+    }
+
+    .nav-list {
+        font-size: 16px;
+        gap: 10px;
+    }
+
+    .nav-text {
+        font-size:x-large ;
+    }
+    .end{
+        display: none;
+        
+    }
+    
+}
+
+
+@media(min-width:540px) {
+    .nav-main {
+        width: 100%;
+    }
+
+    .nav-list {
+        gap: 10px;
+    }
+
+    .nav-text {
+        font-size:large;
+    }
+    .end{
+        display: none;
+        
+    }
+}
+
+
+@media(min-width:412px) {
+    .nav-main {
+        width: 100%;
+    }
+
+    .nav-list {
+        font-size: 16px;
+        gap: 10px;
+        display: flex;
+        
+    }
+
+    .nav-text {
+        font-size:16px;
+    }
+    .end{
+        display: none;
+        
+    }
+}
+
+@media(min-width:800px) {
+    .nav-img {
+        width: 70px;
+        border: 2px solid white;
+        border-bottom: 5px solid rgb(0, 0, 0);
+        border-radius: 50px;
+    }
+
+    .nav-main {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-around;
+        background-color: rgb(2, 102, 77);
+    }
+
+    .nav-list {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 50px;
+        list-style-type: none;
+    }
+
+    .end {
+        display: none;
+    }
+
+    .nav-text {
+        color: rgb(255, 208, 0);
+        font-size: 20PX;
+        font-weight: bold;
+        text-decoration: none;
+        font-family: 'Quicksand', sans-serif;
+        margin-left: 50px;
+    }
+
+}
+@media(min-width:1230px) {
+    .nav-img {
+        width: 70px;
+        border: 2px solid white;
+        border-bottom: 5px solid rgb(0, 0, 0);
+        border-radius: 50px;
+    }
+
+    .nav-main {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-around;
+        background-color: rgb(2, 102, 77);
+    }
+
+    .nav-list {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 50px;
+        list-style-type: none;
+    }
+
+    .end {
+        display: none;
+    }
+
+    .nav-text {
+        color: rgb(255, 208, 0);
+        font-size: 20PX;
+        font-weight: bold;
+        text-decoration: none;
+        font-family: 'Quicksand', sans-serif;
+        margin-left: 50px;
+    }
+
+}
